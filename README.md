@@ -1,10 +1,10 @@
-# 📚 Library Management System
+#  Library Management System
 
 A **Library Management System** database project developed using **MySQL**. This project demonstrates the design and implementation of a relational database to manage books, students, categories, and issued books efficiently.
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 The Library Management System is designed to simplify the management of library records. It stores information about books, students, book categories, and issued books while maintaining relationships between the tables using primary and foreign keys.
 
@@ -12,7 +12,7 @@ The project demonstrates core database concepts such as table creation, data ins
 
 ---
 
-## ✨ Features
+##  Features
 
 * Manage book categories
 * Store book information
@@ -25,7 +25,7 @@ The project demonstrates core database concepts such as table creation, data ins
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * MySQL Server
 * MySQL Workbench
@@ -35,7 +35,7 @@ The project demonstrates core database concepts such as table creation, data ins
 
 ---
 
-## 🗂️ Database Tables
+##  Database Tables
 
 * Categories
 * Books
@@ -44,37 +44,10 @@ The project demonstrates core database concepts such as table creation, data ins
 
 ---
 
-## 📂 Project Structure
-
-```text
-Library-Management-System/
-│
-├── README.md
-├── LICENSE
-│
-├── database/
-│   ├── schema.sql
-│   ├── sample_data.sql
-│   ├── queries.sql
-│   └── library_dump.sql
-│
-├── docs/
-│   ├── Library_Management_System_Documentation.pdf
-│   └── ER_Diagram.png
-│
-└── screenshots/
-```
 
 ---
 
-## 🚀 How to Run
 
-1. Clone this repository.
-2. Open MySQL Workbench.
-3. Create or import the database.
-4. Run `schema.sql` to create the tables.
-5. Run `sample_data.sql` to insert sample records.
-6. Run `queries.sql` to execute sample queries and generate reports.
 
 ---
 
@@ -106,7 +79,7 @@ The repository contains screenshots of:
 
 ---
 
-## 📌 Future Enhancements
+## Future Enhancements
 
 * Book return management
 * Fine calculation
@@ -117,7 +90,7 @@ The repository contains screenshots of:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Charan Sai**
 
