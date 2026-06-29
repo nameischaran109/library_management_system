@@ -51,7 +51,7 @@ The project demonstrates core database concepts such as table creation, data ins
 
 ---
 
-## 📊 Sample Queries
+## Sample Queries
 
 * Display all books
 * Display all students
